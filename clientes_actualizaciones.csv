@@ -1,0 +1,3 @@
+ClienteID,NombreCliente,Genero,RangoEdad,Ciudad,SegmentoCliente
+CLI0001,Juliana García Medina,F,56-65,Medellín,Premium
+CLI9999,Cliente Nuevo Ejemplo,F,26-35,Bogotá,Nuevo

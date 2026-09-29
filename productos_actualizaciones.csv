@@ -1,0 +1,3 @@
+ProductoID,NombreProducto,MarcaProducto,NombreCategoria,NombreProveedor,PaisProveedor,PrecioListado
+PRD001,Audífonos inalámbricos,SoundMax,Audio,Global Sound Supplies,China,79900
+PRD999,Producto Nuevo Ejemplo,MarcaDemo,Tecnología,Proveedor Demo,Colombia,125000
